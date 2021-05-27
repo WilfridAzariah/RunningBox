@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Nov 30 10:32:25 2018
+Quartus II Version : 9.1 Build 222 10/21/2009 SJ Web Edition
+Revision Name : top_level_vhd
+Top-level Entity Name : top_level_vhd
+Family : Cyclone II
+Total logic elements : 1,632
+    Total combinational functions : 1,613
+    Dedicated logic registers : 315
+Total registers : 315
+Total pins : 89
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

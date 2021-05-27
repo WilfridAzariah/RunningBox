@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="top_level_vhd">
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_level_vhd|display_vhd:module_vga|color_rom_vhd:color_rom0|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_6so.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
